@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=GND Pin=U1-23
+Removed Pin From Net: NetName=NetC2_1 Pin=U1-24
+Removed Pin From Net: NetName=GND Pin=U1-35
+Removed Pin From Net: NetName=NetC2_1 Pin=U1-36
+Removed Pin From Net: NetName=GND Pin=U1-47
+Removed Pin From Net: NetName=NetC2_1 Pin=U1-48
+Change Component Footprint: Designator=U1 Old Footprint=QFP50P900X900X160-48N New Footprint=LQFP-48
+Change Component Comment : Designator=U1 Old Comment=STM32L431CCT6 New Comment=STM32F303CBT6
+Change component parameters: Designator = "U1" ("U1"); Footprint = "QFP50P900X900X160-48N"; UniqueID = "\MVDPOWGP" ("\MVDPOWGP")
+Change component parameters (AddParameter): Name = "Availability"; Value = "In Stock"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/STM32F303CBT6/STMicroelectronics/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "STM32F303CBT6"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "LQFP-48 STMicroelectronics"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/STM32F303CBT6/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/STM32F303CBT6/STMicroelectronics/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component U1 STM32F303CBT6
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component U2 SPX3819M5-L-3-3
+Added Room: Name=USB_RF_Schematic

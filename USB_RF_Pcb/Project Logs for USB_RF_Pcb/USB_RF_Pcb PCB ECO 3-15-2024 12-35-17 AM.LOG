@@ -1,0 +1,10 @@
+Removed Member From Class: ClassName=USB_RF_Schematic Member=U3
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Net Name : Old Net Name=NetU2_5 New Net Name=NetU1_5
+Change Net Name : Old Net Name=NetU2_6 New Net Name=NetU1_6
+Change Net Name : Old Net Name=NetU2_34 New Net Name=NetU1_34
+Change Net Name : Old Net Name=NetU2_37 New Net Name=NetU1_37
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component C1 100nF 0603
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component C2 2.2 µF 3216
+Added Room: Name=USB_RF_Schematic
