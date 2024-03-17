@@ -1,0 +1,22 @@
+Removed Member From Class: ClassName=USB_RF_Schematic Member=A1
+Change Component Designator: OldDesignator=J1 NewDesignator=J2
+Added Component: Designator=J1(RFSOLUTIONS_CON-SMA-EDGE-S)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Digi-Key_Part_Number"; Value = "CON-SMA-EDGE-S-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "RF Solutions"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "CON-SMA-EDGE-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/CON-SMA-EDGE-S/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/CON-SMA-EDGE-S/RF+Solutions/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetJ1_2 New Net Name=NetJ2_2
+Change Net Name : Old Net Name=NetJ1_3 New Net Name=NetJ2_3
+Added Pin To Net: NetName=NetC4_1 Pin=C4-1
+Added Pin To Net: NetName=NetC4_1 Pin=C5-1
+Added Pin To Net: NetName=NetC4_1 Pin=J1-G1
+Added Pin To Net: NetName=NetC4_1 Pin=J1-G2
+Added Pin To Net: NetName=NetC4_1 Pin=J1-G3
+Added Pin To Net: NetName=NetC4_1 Pin=J1-G4
+Added Net: Name=NetC4_1
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component J2 USB 2.0 Type A
+Added Room: Name=USB_RF_Schematic

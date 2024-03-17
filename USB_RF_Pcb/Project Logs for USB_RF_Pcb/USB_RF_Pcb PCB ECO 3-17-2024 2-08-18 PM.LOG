@@ -1,0 +1,8 @@
+Change Net Name : Old Net Name=MCU_USB_DM New Net Name=MCU_USB_N
+Change Net Name : Old Net Name=MCU_USB_DP New Net Name=MCU_USB_P
+Added Differential Pair: Name=MCU_USB
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component R2 100k 0603
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component R4 22k 0402
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component R5 100k 0402
+Added Room: Name=USB_RF_Schematic
+Added Class: Name=MCUUSB

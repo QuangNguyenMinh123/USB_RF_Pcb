@@ -1,0 +1,13 @@
+Added Component: Designator=J3(SAMTEC-TMM-102-03-X-D)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SAMTEC-TMM-102-03-X-D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=NetIC1_34 Pin=J3-2
+Added Pin To Net: NetName=+5 Pin=J3-3
+Added Pin To Net: NetName=NetIC1_37 Pin=J3-4
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component J3 SAMTEC-TMM-102-03-X-D
+Added Room: Name=USB_RF_Schematic

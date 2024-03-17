@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetIC1_18 Pin=U1-1
+Added Pin To Net: NetName=NetIC1_18 Pin=U1-2
+Added Pin To Net: NetName=NetIC1_19 Pin=IC1-19
+Added Pin To Net: NetName=NetIC1_19 Pin=U1-1
+Added Net: Name=NetIC1_19
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component J1 CON-SMA-EDGE-S
+Added Room: Name=USB_RF_Schematic

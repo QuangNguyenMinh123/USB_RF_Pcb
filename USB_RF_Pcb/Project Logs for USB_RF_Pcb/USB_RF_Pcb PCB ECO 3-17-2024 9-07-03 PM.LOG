@@ -1,0 +1,11 @@
+Added Pin To Net: NetName=NetIC1_13 Pin=IC1-13
+Added Pin To Net: NetName=NetIC1_13 Pin=U1-6
+Added Net: Name=NetIC1_13
+Added Pin To Net: NetName=NetIC1_18 Pin=IC1-18
+Added Pin To Net: NetName=NetIC1_18 Pin=U1-1
+Added Net: Name=NetIC1_18
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component R1 100k 0603
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component R2 100k 0402
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component R4 100k 0402
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component R5 =Value
+Added Room: Name=USB_RF_Schematic

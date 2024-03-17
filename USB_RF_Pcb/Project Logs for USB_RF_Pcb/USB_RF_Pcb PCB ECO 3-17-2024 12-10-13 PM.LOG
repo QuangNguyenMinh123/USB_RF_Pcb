@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=C11-1
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C12
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C13
+Removed Member From Class: ClassName=USB_RF_Schematic Member=R7
+Change Component Designator: OldDesignator=C12 NewDesignator=C10
+Change Component Designator: OldDesignator=C13 NewDesignator=C11
+Add Component: Footprint Not Found OSC_CSTCE16M0V53-R0
+Add Pin To Net: Unknown Pin: Pin Y2-2
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC11_1
+Added Pin To Net: NetName=NetU1_9 Pin=U1-9
+Added Net: Name=NetU1_9
+Added Pin To Net: NetName=NetU1_10 Pin=U1-10
+Added Net: Name=NetU1_10
+Add Differential Pair: Number of nets in differential pair MCU_USB_DM is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair MCU_USB_DP is 1 instead of 2
+Add Class Member: Failed to add class member : Component Y2 CSTCE16M0V53-R0
+Added Room: Name=USB_RF_Schematic

@@ -1,0 +1,78 @@
+Added Component: Designator=D2(LED 0603_1608 RED)
+Add component (AddParameter): Name = "Color"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.dialightsignalsandcomponents.com/Assets/Drawings/2D_Drawings_DrawingDetailedSpec/NewDrawings/18369A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/dialight/5973005507F/9385429"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Test"; Value = "20mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.68mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "1/6/2024 9:33:09 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "0.68mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Size"; Value = "1.20mm x 0.80mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Rectangle with Flat Top"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Dialight"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela Rating"; Value = "90mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "5973005507F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "378"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "597"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "1.60mm L x 0.80mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "350-4374-1-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "Red"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Wavelength - Dominant"; Value = "630nm"; VariantName = "[No Variations]"
+Added Component: Designator=R7(RES 0603_1608)
+Add component (AddParameter): Name = "0603"; Value = "100 Ohms 0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.seielect.com/catalog/sei-rncs_rnch.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/stackpole-electronics-inc/RNCS0603BKE100R/1799988"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Composition"; Value = "Thin Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Anti-Corrosive, Automotive AEC-Q200, Moisture Resistant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height - Seated (Max)"; Value = "0.022" (0.55mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "1/6/2024 8:41:09 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Stackpole Electronics Inc"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Terminations"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 155°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "RNCS0603BKE100R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "4839"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power (Watts)"; Value = "0.063W, 1/16W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.06"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ratings"; Value = "AEC-Q200"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Resistance"; Value = "100 Ohms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "RNCS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "0.061" L x 0.031" W (1.55mm x 0.80mm)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "RNCS0603BKE100RCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Coefficient"; Value = "±25ppm/°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "±0.1%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC6_1 Pin=D2-1
+Added Pin To Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=R7-1
+Added Net: Name=NetD2_2
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component C6 100nF 0603
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component C7 100nF 0603
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component C8 100nF 0603
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component C9 100nF 0603
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component C11 10nF 0402
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component D2 RED 0603
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component R7 =Value
+Added Room: Name=USB_RF_Schematic

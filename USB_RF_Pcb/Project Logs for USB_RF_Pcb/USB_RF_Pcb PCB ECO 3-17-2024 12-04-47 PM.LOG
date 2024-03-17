@@ -1,0 +1,5 @@
+Change Net Name : Old Net Name=NetIC1_32 New Net Name=MCU_USB_DM
+Change Net Name : Old Net Name=NetIC1_33 New Net Name=MCU_USB_DP
+Add Differential Pair: Number of nets in differential pair MCU_USB_DM is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair MCU_USB_DP is 1 instead of 2
+Added Room: Name=USB_RF_Schematic

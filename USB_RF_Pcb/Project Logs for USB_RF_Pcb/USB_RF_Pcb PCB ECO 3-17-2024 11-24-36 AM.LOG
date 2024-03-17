@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=NetC7_2 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=NetC7_2 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Pin From Net: NetName=NetC7_2 Pin=U1-7
+Removed Pin From Net: NetName=GND Pin=U1-8
+Removed Pin From Net: NetName=GND Pin=U1-14
+Removed Pin From Net: NetName=NetC7_2 Pin=U1-15
+Removed Pin From Net: NetName=GND Pin=U1-17
+Removed Pin From Net: NetName=NetC7_2 Pin=U1-18
+Removed Pin From Net: NetName=GND Pin=U1-20
+Removed Member From Class: ClassName=USB_RF_Schematic Member=A1
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C1
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C2
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C3
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C4
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C5
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C7
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C8
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C9
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C10
+Removed Member From Class: ClassName=USB_RF_Schematic Member=J1
+Removed Member From Class: ClassName=USB_RF_Schematic Member=L1
+Removed Member From Class: ClassName=USB_RF_Schematic Member=L2
+Removed Member From Class: ClassName=USB_RF_Schematic Member=L3
+Removed Member From Class: ClassName=USB_RF_Schematic Member=R3
+Removed Member From Class: ClassName=USB_RF_Schematic Member=R5
+Removed Member From Class: ClassName=USB_RF_Schematic Member=U1
+Removed Member From Class: ClassName=USB_RF_Schematic Member=Y2
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC12_1
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component C11 100nF 0603
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component C12 2.2 µF 3216
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component U2 USBLC6-2SC6
+Added Room: Name=USB_RF_Schematic

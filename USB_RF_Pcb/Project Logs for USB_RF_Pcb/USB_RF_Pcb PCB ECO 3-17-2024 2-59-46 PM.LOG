@@ -1,0 +1,34 @@
+Added Component: Designator=J2(AMPHENOL USB 73725-0110BLF)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.amphenol-icc.com/media/wysiwyg/files/drawing/73725.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/amphenol-icc-fci/73725-0110BLF/609-1041-ND/1001355"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Connector Type"; Value = "USB - A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating (Amps)"; Value = "2.5A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Features"; Value = "Board Lock"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Gender"; Value = "Receptacle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "4/30/2020 11:56:05 AM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mating Cycles"; Value = "1500"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Feature"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Through Hole, Right Angle"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Ports"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-55°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "73725-0110BLF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.91"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "73725"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Shielding"; Value = "Shielded"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Specifications"; Value = "USB 2.0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "609-1041-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=J2-1
+Added Pin To Net: NetName=NetJ2_4 Pin=J2-4
+Added Net: Name=NetJ2_4
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component J2 73725-0110BLF
+Added Room: Name=USB_RF_Schematic

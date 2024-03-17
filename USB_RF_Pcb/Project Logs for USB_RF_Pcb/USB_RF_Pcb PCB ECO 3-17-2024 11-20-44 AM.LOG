@@ -1,0 +1,41 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=GND Pin=C2-1
+Removed Pin From Net: NetName=GND Pin=C3-1
+Removed Pin From Net: NetName=GND Pin=C5-2
+Removed Pin From Net: NetName=GND Pin=C7-1
+Removed Pin From Net: NetName=NetC7_2 Pin=C7-2
+Removed Pin From Net: NetName=GND Pin=C8-1
+Removed Pin From Net: NetName=NetC7_2 Pin=C8-2
+Removed Pin From Net: NetName=GND Pin=C9-1
+Removed Pin From Net: NetName=GND Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=R3-1
+Removed Member From Class: ClassName=USB_RF_Schematic Member=A1
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C5
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C6
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C7
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C8
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C9
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C10
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C11
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C12
+Removed Member From Class: ClassName=USB_RF_Schematic Member=C13
+Removed Member From Class: ClassName=USB_RF_Schematic Member=J2
+Removed Member From Class: ClassName=USB_RF_Schematic Member=L1
+Removed Member From Class: ClassName=USB_RF_Schematic Member=L2
+Removed Member From Class: ClassName=USB_RF_Schematic Member=L3
+Removed Member From Class: ClassName=USB_RF_Schematic Member=R4
+Removed Member From Class: ClassName=USB_RF_Schematic Member=R5
+Removed Member From Class: ClassName=USB_RF_Schematic Member=U3
+Removed Member From Class: ClassName=USB_RF_Schematic Member=Y2
+Change Component Designator: OldDesignator=C6 NewDesignator=C1
+Change Component Designator: OldDesignator=C11 NewDesignator=C2
+Change Component Designator: OldDesignator=C12 NewDesignator=C3
+Change Component Designator: OldDesignator=C13 NewDesignator=C4
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=R4 NewDesignator=R3
+Change Component Designator: OldDesignator=U2 NewDesignator=U1
+Change Component Designator: OldDesignator=U3 NewDesignator=U2
+Change Net Name : Old Net Name=NetC7_2 New Net Name=NetC3_1
+Change Net Name : Old Net Name=NetC13_1 New Net Name=NetC4_1
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=NetJ1_2
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=NetJ1_3

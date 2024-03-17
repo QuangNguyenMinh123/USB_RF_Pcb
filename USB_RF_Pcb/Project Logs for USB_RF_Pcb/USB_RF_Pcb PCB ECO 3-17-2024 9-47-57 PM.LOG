@@ -1,0 +1,53 @@
+Removed Pin From Net: NetName=+5 Pin=J3-01
+Removed Pin From Net: NetName=NetIC1_34 Pin=J3-02
+Removed Pin From Net: NetName=GND Pin=J3-03
+Removed Pin From Net: NetName=NetIC1_37 Pin=J3-04
+Change Component Footprint: Designator=J3 Old Footprint=SAMTEC_MTMM-102-XX-X-D-XXX New Footprint=HARWIN M20-9960445
+Change Component Comment : Designator=J3 Old Comment=MTMM-102-XX-X-D-XXX New Comment=M20-9960445
+Change component parameters: Designator = "J3" ("J3"); Footprint = "SAMTEC_MTMM-102-XX-X-D-XXX"; UniqueID = "\FFAKGARU" ("\FFAKGARU")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "https://cdn.harwin.com/pdfs/Harwin_PC_Connectors_M20.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/harwin-inc/M20-9960445/3921052"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Header, Cuttable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Finish - Mating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Length - Mating"; Value = "0.240" (6.10mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Length - Post"; Value = "0.118" (3.00mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Shape"; Value = "Square"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating (Amps)"; Value = "3A per Contact"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Fastening Type"; Value = "Push-Pull"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Height"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Insulation Material"; Value = "Polyamide (PA6T), Nylon 6T"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LastUpdated"; Value = "9/21/2022 7:23:20 PM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Harwin Inc."; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material Flammability Rating"; Value = "UL94 V-0"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "Through Hole, Right Angle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions Loaded"; Value = "All"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "M20-9960445"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PartId"; Value = "167"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch - Mating"; Value = "0.100" (2.54mm)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "0.11"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Row Spacing - Mating"; Value = "-40°C ~ 105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "M20"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Shrouding"; Value = "Unshrouded"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Style"; Value = "Board to Board or Cable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "952-3286-ND"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetIC1_34 Pin=J3-1
+Added Pin To Net: NetName=NetIC1_37 Pin=J3-2
+Added Pin To Net: NetName=+5 Pin=J3-3
+Added Pin To Net: NetName=GND Pin=J3-4
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component J1 CON-SMA-EDGE-S
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component J3 M20-9960445
+Added Room: Name=USB_RF_Schematic

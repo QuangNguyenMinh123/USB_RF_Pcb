@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=R1 NewDesignator=R2
+Change Component Designator: OldDesignator=R2 NewDesignator=R3
+Change Component Designator: OldDesignator=R3 NewDesignator=R4
+Change Component Designator: OldDesignator=R4 NewDesignator=R5
+Change Component Designator: OldDesignator=R5 NewDesignator=R1
+Change Net Name : Old Net Name=NetR3_2 New Net Name=NetR4_2
+Added Pin To Net: NetName=NetIC1_29 Pin=IC1-29
+Added Pin To Net: NetName=NetIC1_29 Pin=R1-2
+Added Net: Name=NetIC1_29
+Add Differential Pair: Number of nets in differential pair MCU_USB_DM is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair MCU_USB_DP is 1 instead of 2
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component J1 USB 2.0 Type A
+Added Room: Name=USB_RF_Schematic

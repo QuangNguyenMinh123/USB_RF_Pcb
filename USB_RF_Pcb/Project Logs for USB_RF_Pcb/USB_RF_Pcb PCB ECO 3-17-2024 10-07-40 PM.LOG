@@ -1,0 +1,13 @@
+Added Component: Designator=J3(AMPHENOL_10075024-F01-02LF)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/10075024-F01-02LF/Amphenol+FCI/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Amphenol ICC (FCI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "10075024-F01-02LF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/10075024-F01-02LF/Amphenol+FCI/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J3-01
+Added Pin To Net: NetName=NetIC1_34 Pin=J3-02
+Added Pin To Net: NetName=+5 Pin=J3-03
+Added Pin To Net: NetName=NetIC1_37 Pin=J3-04
+Added Member To Class: ClassName=USB_RF_Schematic Member=Component J3 10075024-F01-02LF
+Added Room: Name=USB_RF_Schematic
