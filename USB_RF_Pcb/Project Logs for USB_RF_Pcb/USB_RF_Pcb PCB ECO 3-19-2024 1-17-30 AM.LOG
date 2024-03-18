@@ -1,0 +1,279 @@
+Removed Pin From Net: NetName=GND Pin=C1-
+Removed Pin From Net: NetName=NetC1_2 Pin=C1-
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetC2_2 Pin=C2-
+Removed Pin From Net: NetName=GND Pin=C2-
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetC2_2 Pin=C3-
+Removed Pin From Net: NetName=GND Pin=C3-
+Removed Pin From Net: NetName=NetC4_1 Pin=C4-
+Removed Pin From Net: NetName=NetC4_2 Pin=C4-
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetC4_1 Pin=C5-
+Removed Pin From Net: NetName=GND Pin=C5-
+Removed Pin From Net: NetName=GND Pin=C6-
+Removed Pin From Net: NetName=NetC6_1 Pin=C6-
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=C7-
+Removed Pin From Net: NetName=NetC6_1 Pin=C7-
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetC6_1 Pin=C8-
+Removed Pin From Net: NetName=GND Pin=C8-
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetC6_1 Pin=C9-
+Removed Pin From Net: NetName=GND Pin=C9-
+Removed Pin From Net: NetName=+5 Pin=C10-
+Removed Pin From Net: NetName=GND Pin=C10-
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetC6_1 Pin=C11-
+Removed Pin From Net: NetName=GND Pin=C11-
+Removed Pin From Net: NetName=GND Pin=C12-
+Removed Pin From Net: NetName=NetC6_1 Pin=C12-
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=C13-
+Removed Pin From Net: NetName=NetC6_1 Pin=C13-
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetC14_1 Pin=C14-
+Removed Pin From Net: NetName=GND Pin=C14-
+Removed Pin From Net: NetName=NetC6_1 Pin=D1-
+Removed Pin From Net: NetName=NetD1_2 Pin=D1-
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetC6_1 Pin=D2-
+Removed Pin From Net: NetName=NetD2_2 Pin=D2-
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetIC1_37 Pin=J3-
+Removed Pin From Net: NetName=+5 Pin=J3-
+Removed Pin From Net: NetName=NetIC1_34 Pin=J3-
+Removed Pin From Net: NetName=GND Pin=J3-
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetL1_2 Pin=L1-
+Removed Pin From Net: NetName=NetC2_2 Pin=L1-
+Removed Pin From Net: NetName=NetL1_2 Pin=L2-
+Removed Pin From Net: NetName=NetL2_2 Pin=L2-
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetC4_2 Pin=L3-
+Removed Pin From Net: NetName=NetL2_2 Pin=L3-
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetC6_1 Pin=R1-
+Removed Pin From Net: NetName=NetIC1_7 Pin=R1-
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetIC1_44 Pin=R2-
+Removed Pin From Net: NetName=GND Pin=R2-
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetR3_2 Pin=R3-
+Removed Pin From Net: NetName=GND Pin=R3-
+Removed Pin From Net: NetName=GND Pin=R4-
+Removed Pin From Net: NetName=NetIC1_20 Pin=R4-
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetD1_2 Pin=R5-
+Removed Pin From Net: NetName=NetIC1_21 Pin=R5-
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetC6_1 Pin=R6-
+Removed Pin From Net: NetName=MCU_USB_P Pin=R6-
+Removed Pin From Net: NetName=GND Pin=R7-
+Removed Pin From Net: NetName=NetD2_2 Pin=R7-
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=NetJ2_2 Pin=U2-
+Removed Pin From Net: NetName=GND Pin=U2-
+Removed Pin From Net: NetName=NetJ2_3 Pin=U2-
+Removed Pin From Net: NetName=MCU_USB_P Pin=U2-
+Removed Pin From Net: NetName=+5 Pin=U2-
+Removed Pin From Net: NetName=MCU_USB_N Pin=U2-
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=U3-
+Removed Pin From Net: NetName=+5 Pin=U3-
+Removed Pin From Net: NetName=+5 Pin=U3-
+Removed Pin From Net: NetName=NetC14_1 Pin=U3-
+Removed Pin From Net: NetName=NetC6_1 Pin=U3-
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=Y1-
+Removed Pin From Net: NetName=NetIC1_5 Pin=Y1-
+Removed Pin From Net: NetName=NetIC1_6 Pin=Y1-
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Removed Pin From Net: NetName=GND Pin=Y2-
+Removed Pin From Net: NetName=NetU1_10 Pin=Y2-
+Removed Pin From Net: NetName=NetU1_9 Pin=Y2-
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin C13-1
+Add Pin To Net: Unknown Pin: Pin C13-2
+Add Pin To Net: Unknown Pin: Pin C14-1
+Add Pin To Net: Unknown Pin: Pin C14-2
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-6
+Add Pin To Net: Unknown Pin: Pin IC1-7
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin IC1-9
+Add Pin To Net: Unknown Pin: Pin IC1-13
+Add Pin To Net: Unknown Pin: Pin IC1-15
+Add Pin To Net: Unknown Pin: Pin IC1-16
+Add Pin To Net: Unknown Pin: Pin IC1-17
+Add Pin To Net: Unknown Pin: Pin IC1-18
+Add Pin To Net: Unknown Pin: Pin IC1-19
+Add Pin To Net: Unknown Pin: Pin IC1-20
+Add Pin To Net: Unknown Pin: Pin IC1-21
+Add Pin To Net: Unknown Pin: Pin IC1-23
+Add Pin To Net: Unknown Pin: Pin IC1-24
+Add Pin To Net: Unknown Pin: Pin IC1-32
+Add Pin To Net: Unknown Pin: Pin IC1-33
+Add Pin To Net: Unknown Pin: Pin IC1-34
+Add Pin To Net: Unknown Pin: Pin IC1-35
+Add Pin To Net: Unknown Pin: Pin IC1-36
+Add Pin To Net: Unknown Pin: Pin IC1-37
+Add Pin To Net: Unknown Pin: Pin IC1-44
+Add Pin To Net: Unknown Pin: Pin IC1-47
+Add Pin To Net: Unknown Pin: Pin IC1-48
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-G1
+Add Pin To Net: Unknown Pin: Pin J1-G2
+Add Pin To Net: Unknown Pin: Pin J1-G3
+Add Pin To Net: Unknown Pin: Pin J1-G4
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J3-01
+Add Pin To Net: Unknown Pin: Pin J3-02
+Add Pin To Net: Unknown Pin: Pin J3-03
+Add Pin To Net: Unknown Pin: Pin J3-04
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin L2-1
+Add Pin To Net: Unknown Pin: Pin L2-2
+Add Pin To Net: Unknown Pin: Pin L3-1
+Add Pin To Net: Unknown Pin: Pin L3-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin U1-1
+Add Pin To Net: Unknown Pin: Pin U1-2
+Add Pin To Net: Unknown Pin: Pin U1-3
+Add Pin To Net: Unknown Pin: Pin U1-4
+Add Pin To Net: Unknown Pin: Pin U1-5
+Add Pin To Net: Unknown Pin: Pin U1-6
+Add Pin To Net: Unknown Pin: Pin U1-7
+Add Pin To Net: Unknown Pin: Pin U1-8
+Add Pin To Net: Unknown Pin: Pin U1-9
+Add Pin To Net: Unknown Pin: Pin U1-10
+Add Pin To Net: Unknown Pin: Pin U1-11
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-14
+Add Pin To Net: Unknown Pin: Pin U1-15
+Add Pin To Net: Unknown Pin: Pin U1-16
+Add Pin To Net: Unknown Pin: Pin U1-17
+Add Pin To Net: Unknown Pin: Pin U1-18
+Add Pin To Net: Unknown Pin: Pin U1-19
+Add Pin To Net: Unknown Pin: Pin U1-20
+Add Pin To Net: Unknown Pin: Pin U2-1
+Add Pin To Net: Unknown Pin: Pin U2-2
+Add Pin To Net: Unknown Pin: Pin U2-3
+Add Pin To Net: Unknown Pin: Pin U2-4
+Add Pin To Net: Unknown Pin: Pin U2-5
+Add Pin To Net: Unknown Pin: Pin U2-6
+Add Pin To Net: Unknown Pin: Pin U3-1
+Add Pin To Net: Unknown Pin: Pin U3-2
+Add Pin To Net: Unknown Pin: Pin U3-3
+Add Pin To Net: Unknown Pin: Pin U3-4
+Add Pin To Net: Unknown Pin: Pin U3-5
+Add Pin To Net: Unknown Pin: Pin Y1-1
+Add Pin To Net: Unknown Pin: Pin Y1-2
+Add Pin To Net: Unknown Pin: Pin Y1-3
+Add Pin To Net: Unknown Pin: Pin Y2-1
+Add Pin To Net: Unknown Pin: Pin Y2-2
+Add Pin To Net: Unknown Pin: Pin Y2-3
+Added Room: Name=USB_RF_Schematic
