@@ -1,0 +1,38 @@
+Source PCB Design USB_RF_Embedded_Board.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [USB_RF_Pcb.PrjPcb]
+   Generated File[USB_RF_Embedded_Board.GTO]
+   Generated File[USB_RF_Embedded_Board.GTP]
+   Generated File[USB_RF_Embedded_Board.GTS]
+   Generated File[USB_RF_Embedded_Board.GTL]
+   Generated File[USB_RF_Embedded_Board.GBL]
+   Generated File[USB_RF_Embedded_Board.GBS]
+   Generated File[USB_RF_Embedded_Board.GBP]
+   Generated File[USB_RF_Embedded_Board.GBO]
+   Generated File[USB_RF_Embedded_Board.GM1]
+   Generated File[USB_RF_Embedded_Board.GM2]
+   Generated File[USB_RF_Embedded_Board.GM3]
+   Generated File[USB_RF_Embedded_Board.GM4]
+   Generated File[USB_RF_Embedded_Board.GM5]
+   Generated File[USB_RF_Embedded_Board.GM6]
+   Generated File[USB_RF_Embedded_Board.GM7]
+   Generated File[USB_RF_Embedded_Board.GM13]
+   Generated File[USB_RF_Embedded_Board.GM14]
+   Generated File[USB_RF_Embedded_Board.GM15]
+   Generated File[USB_RF_Embedded_Board.GM16]
+   Generated File[USB_RF_Embedded_Board.GKO]
+   Generated File[USB_RF_Embedded_Board.GPT]
+   Generated File[USB_RF_Embedded_Board.GPB]
+   Generated File[USB_RF_Embedded_Board.GD1]
+   Generated File[USB_RF_Embedded_Board.GG1]
+   Generated File[USB_RF_Embedded_Board.RUL]
+   Generated File[USB_RF_Embedded_Board.EXTREP]
+   Generated File[USB_RF_Embedded_Board.REP]
+
+
+Files Generated   : 27
+Documents Printed : 0
+
+Finished Output Generation At 12:40:40 PM On 3/21/2024
