@@ -1,5 +1,5 @@
 ------------------------------------------------------------------------------------------
-Gerber File Extension Report For: USB_RF_Embedded_Board.GBR   3/21/2024  12:40:37 PM
+Gerber File Extension Report For: USB_RF_Embedded_Board.GBR   5/6/2024  5:31:44 PM
 ------------------------------------------------------------------------------------------
 
 
@@ -19,8 +19,6 @@ Layer Extension     Layer Description
 .GM3                Mechanical 3                            
 .GM4                Mechanical 4                            
 .GM5                Mechanical 5                            
-.GM6                Mechanical 6                            
-.GM7                Mechanical 7                            
 .GM13               Mechanical 13                           
 .GM14               Mechanical 14                           
 .GM15               Mechanical 15                           

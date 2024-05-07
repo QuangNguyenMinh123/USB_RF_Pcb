@@ -134,7 +134,7 @@ GenerateClassCluster=0
 DocumentUniqueId=YCXIEACO
 
 [Document6]
-DocumentPath=USB_RF_Ver2_Embedded_Board.PcbDoc
+DocumentPath=Embedded Ver2.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -148,7 +148,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=YRSDWLHS
+DocumentUniqueId=OLJGUSOR
 
 [Document7]
 DocumentPath=CAMtastic2.Cam
@@ -184,124 +184,165 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document9]
+DocumentPath=CAMtastic4.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.DRR
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.EXTREP
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GBL
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GBO
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GBP
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GBS
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GD1
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GG1
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GKO
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GM1
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GM2
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GM3
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GM4
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM4
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GM5
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM5
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GM6
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM13
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GM7
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM14
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GM13
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM15
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GM14
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM16
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GM15
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GM16
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GPB
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GPT
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GTL
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GTO
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GTP
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.GTS
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.REP
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.LDP
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.REP
+DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.RUL
+DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.TXT
+DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Ver2_Embedded_Board.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Ver2_Embedded_Board.REP
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Ver2_Embedded_Board.RUL
 DItemRevisionGUID=
 
 [Configuration1]
@@ -595,7 +636,7 @@ OutputDefault8=0
 Configuration8_Name1=ForceUpdateSettings
 Configuration8_Item1=False
 Configuration8_Name2=OutputConfigurationParameter1
-Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=F:\USB_RF_Pcb\USB_RF_Pcb\USB_RF_Ver2_Embedded_Board.PcbDoc
+Configuration8_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|GenerateSeparateViaTypeFiles=False|NumberOfDecimals=4|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Record=DrillView|Units=Imperial|ZeroesMode=SuppressTrailingZeroes|DocumentPath=F:\USB_RF_Pcb\USB_RF_Pcb\Embedded Ver2.PcbDoc
 OutputType9=IPC2581
 OutputName9=IPC-2581 Files
 OutputDocumentPath9=
@@ -620,7 +661,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressTrailingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=40|MinusApertureTolerance=40|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908301~1,16908302~1,16908303~1,16908304~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=40|PlusApertureTolerance=40|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=F:\USB_RF_Pcb\USB_RF_Pcb\USB_RF_Ver2_Embedded_Board.PcbDoc
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GenerateReports=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressTrailingZeroes|MaxApertureSize=2500000|MergePadAndRegion=False|MinusApertureTolerance=40|MinusApertureTolerance=40|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Absolute|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TPlotLayerStateArray,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908301~1,16908302~1,16908303~1,16908304~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=40|PlusApertureTolerance=40|Record=GerberView|SoftwareArcs=False|Sorted=False|Sorted=False|DocumentPath=F:\USB_RF_Pcb\USB_RF_Pcb\Embedded Ver2.PcbDoc
 
 [OutputGroup6]
 Name=Report Outputs
