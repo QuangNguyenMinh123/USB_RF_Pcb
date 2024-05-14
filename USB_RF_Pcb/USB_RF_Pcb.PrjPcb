@@ -202,147 +202,23 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GG1
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM2
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM3
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM5
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.REP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for USB_RF_Pcb\Embedded Ver2.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument29]
 DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.REP
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Embedded_Board.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Ver2_Embedded_Board.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Ver2_Embedded_Board.REP
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for USB_RF_Pcb\USB_RF_Ver2_Embedded_Board.RUL
 DItemRevisionGUID=
 
 [Configuration1]
