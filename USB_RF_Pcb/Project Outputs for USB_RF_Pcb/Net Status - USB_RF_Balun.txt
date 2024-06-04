@@ -1,0 +1,42 @@
+Net Status Report
+Filename     : F:\USB_RF_Pcb\USB_RF_Pcb\USB_RF_Balun.PcbDoc
+Date         : 6/3/2024
+Time         : 5:24:44 PM
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    +5, Signal Layers Only, 1824.998mils
+    GND, Signal Layers Only, 17690.019mils
+    MCU_USB_N, Signal Layers Only, 363.37mils
+    MCU_USB_P, Signal Layers Only, 418.52mils
+    NetC13_1, Signal Layers Only, 179.151mils
+    NetC1_2, Signal Layers Only, 66.853mils
+    NetC2_2, Signal Layers Only, 230.091mils
+    NetC4_2, Signal Layers Only, 252.69mils
+    NetC5_2, Signal Layers Only, 260.52mils
+    NetC7_2, Signal Layers Only, 5407.359mils
+    NetD1_2, Signal Layers Only, 65.441mils
+    NetD2_2, Signal Layers Only, 64.882mils
+    NetFL1_1, Signal Layers Only, 206.456mils
+    NetFL1_3, Signal Layers Only, 69.699mils
+    NetFL1_4, Signal Layers Only, 69.83mils
+    NetIC1_13, Signal Layers Only, 203.291mils
+    NetIC1_15, Signal Layers Only, 363.712mils
+    NetIC1_16, Signal Layers Only, 205.843mils
+    NetIC1_17, Signal Layers Only, 222.15mils
+    NetIC1_18, Signal Layers Only, 255.157mils
+    NetIC1_19, Signal Layers Only, 276.546mils
+    NetIC1_20, Signal Layers Only, 94.083mils
+    NetIC1_21, Signal Layers Only, 202.861mils
+    NetIC1_34, Signal Layers Only, 363.79mils
+    NetIC1_37, Signal Layers Only, 365.347mils
+    NetIC1_41, Signal Layers Only, 512.567mils
+    NetIC1_44, Signal Layers Only, 278.923mils
+    NetIC1_5, Signal Layers Only, 185.308mils
+    NetIC1_6, Signal Layers Only, 184.042mils
+    NetIC1_7, Signal Layers Only, 97.211mils
+    NetJ2_2, Signal Layers Only, 112.656mils
+    NetJ2_3, Signal Layers Only, 112.738mils
+    NetQ1_E, Signal Layers Only, 63.055mils
+    NetR3_2, Signal Layers Only, 85.856mils
+count : 34
