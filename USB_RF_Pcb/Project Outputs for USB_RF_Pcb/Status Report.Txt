@@ -1,14 +1,12 @@
-Source PCB Design USB_RF_Embedded.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
-
 Output: NC Drill Files
 Type  : NC Drill
 From  : Project [USB_RF_Pcb.PrjPcb]
-   Generated File[USB_RF_Embedded.TXT]
-   Generated File[USB_RF_Embedded.LDP]
-   Generated File[USB_RF_Embedded.DRR]
+   Generated File[USB_RF_Balun.TXT]
+   Generated File[USB_RF_Balun.LDP]
+   Generated File[USB_RF_Balun.DRR]
 
 
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 8:33:35 PM On 6/4/2024
+Finished Output Generation At 10:00:38 AM On 6/5/2024
