@@ -1,0 +1,424 @@
+*************************************************************
+FileName = USB_RF_Balun.GBR
+AutoAperture = True
+*************************************************************
+Generating : Bottom Layer
+      File : USB_RF_Balun.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D33
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D43
+    D44
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Pad Master
+      File : USB_RF_Balun.GPB
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D33
+    D36
+    D37
+    D38
+    D39
+    D40
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Top Pad Master
+      File : USB_RF_Balun.GPT
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Top Overlay
+      File : USB_RF_Balun.GTO
+
+    Adding Layer      : Top Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D12
+    D13
+    D14
+    D15
+    D16
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Paste
+      File : USB_RF_Balun.GTP
+
+    Adding Layer      : Top Paste
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+*************************************************************
+
+*************************************************************
+Generating : Layer 2
+      File : USB_RF_Balun.G2
+
+    Adding Layer      : Layer 2
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D40
+    D41
+    D46
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Top Solder
+      File : USB_RF_Balun.GTS
+
+    Adding Layer      : Top Solder
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : USB_RF_Balun.GBS
+
+    Adding Layer      : Bottom Solder
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D33
+    D36
+    D37
+    D38
+    D39
+    D40
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : USB_RF_Balun.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D29
+    D30
+    D33
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+*************************************************************
+
+*************************************************************
+Generating : Bottom Tenting
+      File : USB_RF_Balun.GM3
+
+    Adding Layer      : Bottom Tenting
+
+
+Used DCodes :
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Top Covering
+      File : USB_RF_Balun.GM4
+
+    Adding Layer      : Top Covering
+
+
+Used DCodes :
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Bottom Covering
+      File : USB_RF_Balun.GM5
+
+    Adding Layer      : Bottom Covering
+
+
+Used DCodes :
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Layer 1
+      File : USB_RF_Balun.G1
+
+    Adding Layer      : Layer 1
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D36
+    D40
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Top Layer
+      File : USB_RF_Balun.GTL
+
+    Adding Layer      : Top Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D18
+    D19
+    D20
+    D21
+    D22
+    D23
+    D24
+    D25
+    D26
+    D27
+    D28
+    D29
+    D30
+    D31
+    D32
+    D33
+    D34
+    D35
+    D36
+    D37
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : USB_RF_Balun.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+    D10
+    D11
+    D13
+    D14
+    D15
+    D17
+    D56
+    D57
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : USB_RF_Balun.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+    D58
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : USB_RF_Balun.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+    D17
+*************************************************************
+
+*************************************************************
+Generating : Top Tenting
+      File : USB_RF_Balun.GM2
+
+    Adding Layer      : Top Tenting
+
+
+Used DCodes :
+    D48
+*************************************************************
+
+*************************************************************
+Generating : Drill Drawing
+      File : USB_RF_Balun.GD1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Drawing
+
+
+Used DCodes :
+    D59
+    D60
+*************************************************************
+
+*************************************************************
+Generating : Drill Guide
+      File : USB_RF_Balun.GG1
+
+    Adding Drill Pair : Top Layer-Bottom Layer
+
+    Adding Layer      : Drill Guide
+
+
+Used DCodes :
+    D59
+*************************************************************
+

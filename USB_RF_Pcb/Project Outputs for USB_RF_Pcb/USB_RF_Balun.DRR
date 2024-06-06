@@ -1,0 +1,19 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: USB_RF_Balun.PcbDoc   6/5/2024  8:11:56 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : USB_RF_Balun.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      12mil (0.305mm)         +/-0mil (0mm)                     Round             6         PTH        0.42inch (10.69mm)
+T2      12mil (0.305mm)                                           Round             114       PTH        9.28inch (235.82mm)
+T3      39mil (1.001mm)                                           Round             4         PTH        0.30inch (7.62mm)
+T4      59mil (1.501mm)                                           Round             1         PTH        0.00inch (0.00mm)
+T5      67mil (1.699mm)                                           Round             4         PTH        0.59inch (15.00mm)
+T6      75mil (1.9mm)                                             Round             2         PTH        0.18inch (4.50mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              131
+
+Total Processing Time (hh:mm:ss) : 00:00:01
